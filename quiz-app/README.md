@@ -1,25 +1,51 @@
-# quiz-application
+# star-wars-quiz-application
+A command-line Python quiz application that tests users' knowledge of the Star Wars universe.
 
-made it to test my python skills(especially functions), and my love for star wars obviously lol.
+## description
+
+a simple *python* quiz application based on the star wars universe. the quiz presents multiple-choice questions, checks answers, and displays the final score at the end.
+
 
 ## features
 
-1)tests your basic star wars knowledge
-2)fun and engaging
-3)insight into the franchise of starwars(would highly suggest regardlesss!)
+-> multiple-choice questions
 
-## why i made this
+-> instant answer checking
 
-to test my python skills from 11th and 12th grade.
+-> final score display
 
-## installation and usage
+-> easy to modify and expand
 
-copy the code from here and paste into the python interpreter and run the program and voila! 
 
-## contributors
+## installation
 
-**faheem**
+1. clone or download the project.
+2. open the project folder.
+3. run the *python* file.
+
+
+## usage
+
+copy the code from git hub and then paste it onto the python interpreter and then proceed to run the program.
+
+
+## what i learned
+
+-> working with Python functions and loops
+
+-> using lists and dictionaries to store quiz data
+
+-> handling user input
+
+-> organizing a small Python project
+
+
+## contributor
+
+faheem
+
 
 ## license
 
-this project is licensed under the MIT License. see the LICENSE file for details.
+this project is licensed under the **MIT License** . see the **LICENSE** file for details.
+
