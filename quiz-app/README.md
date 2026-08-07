@@ -1,5 +1,5 @@
 # star-wars-quiz-application
-A command-line Python quiz application that tests users' knowledge of the Star Wars universe.
+a command-line *python* quiz application that tests users' knowledge of the star wars universe.
 
 ## description
 
@@ -27,6 +27,10 @@ a simple *python* quiz application based on the star wars universe. the quiz pre
 ## usage
 
 copy the code from git hub and then paste it onto the python interpreter and then proceed to run the program.
+
+# screenshots
+
+<img width="1361" height="717" alt="image" src="https://github.com/user-attachments/assets/6fa61b88-155d-464e-abf5-5e2621ee4720" />
 
 
 ## what i learned
