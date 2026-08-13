@@ -28,7 +28,7 @@ a simple *python* quiz application based on the star wars universe. the quiz pre
 
 copy the code from git hub and then paste it onto the python interpreter and then proceed to run the program.
 
-# screenshots
+## screenshot
 
 <img width="1361" height="717" alt="image" src="https://github.com/user-attachments/assets/6fa61b88-155d-464e-abf5-5e2621ee4720" />
 
