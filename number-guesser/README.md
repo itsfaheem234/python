@@ -34,6 +34,10 @@ python 3
 7) counters
 8) ```break```
 
+## gameplay
+<img width="1363" height="718" alt="image" src="https://github.com/user-attachments/assets/b9f8aaaf-ae73-4f4a-b577-0662b21ae074" />
+
+
 ## possible improvements
 1) add difficulty levels
 2) limit the number of attempts
