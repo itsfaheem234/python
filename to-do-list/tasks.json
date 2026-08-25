@@ -1,0 +1,14 @@
+[
+    {
+        "task": "attend school",
+        "completed": false
+    },
+    {
+        "task": "watch episode 2 of star wars",
+        "completed": true
+    },
+    {
+        "task": "complete cs project",
+        "completed": false
+    }
+]
