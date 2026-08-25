@@ -1,0 +1,17 @@
+[
+    {
+        "description": "phone cover",
+        "category": "amazon orders",
+        "amount": 190.0
+    },
+    {
+        "description": "shawarma with fam",
+        "category": "food",
+        "amount": 350.0
+    },
+    {
+        "description": "movie ticket-superman",
+        "category": "entertainment",
+        "amount": 550.0
+    }
+]
